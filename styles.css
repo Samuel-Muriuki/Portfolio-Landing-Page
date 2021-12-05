@@ -78,3 +78,34 @@ li {
     border-radius: 10px;
 }
 
+/* The Contact Section*/
+.contact {
+    
+}
+
+form {
+    height: 300px;
+    width: 60%;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+input[type="text"] {
+    padding: 20px 60% 20px 20px;
+    background-color: rgb(241, 241, 241);
+}
+
+input[type="txt"] {
+    padding: 20px 60% 20px 20px;
+    background-color: rgb(241, 241, 241);
+}
+
+input[type="tt"] {
+    padding: 20px 60% 100px 20px;
+    background-color: rgb(241, 241, 241);
+}
+
+form>input {
+    margin: 20px ;
+    border: none;
+}
