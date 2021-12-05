@@ -113,3 +113,11 @@ form>input {
     justify-content: space-between;
     padding: 100px 500px 10px 300px;
 }
+
+.conta {
+    box-sizing: border-box;
+    height: 100px;
+    width: 400px;
+    border: 1px solid rgb(0, 0, 0);
+    
+}
