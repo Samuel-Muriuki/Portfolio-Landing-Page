@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+/* The Header Section*/
+.header {
+    background: #252525;
+    color: #aba6a6;
+    height: 40rem;
+}
+
+.me {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px 0px 200px;
+}
+
+.orng {
+    color: #e77619;
+}
+
+/* The Navigation Bar*/
+ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 60px 0px 60px;
+}
+
+li {
+    text-decoration: none;
+}
+
+/* The About Page*/
+.about {
+    background: #252525;
+}
+
+.white {
+    color: #e6e6e6;
+}
