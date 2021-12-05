@@ -11,6 +11,13 @@
     padding: 50px 200px 0px 200px;
 }
 
+.me>.txt {
+    padding-top: 100px;
+    
+}
+
+
+
 .orng {
     color: #e77619;
 }
@@ -22,7 +29,7 @@ ul {
     padding: 10px 60px 0px 60px;
 }
 
-li {
+ul>li {
     list-style: none;
 }
 
@@ -69,9 +76,16 @@ li {
 .box {
     box-sizing: border-box;
     height: 200px;
-    width: 150px;
+    width: 200px;
     border: 1px solid #e6e6e6;
     border-radius: 10px;
+    padding: 20px;
+}
+
+.box>i {
+    padding-bottom: 30px;
+    color: #e77619;
+    font-size: 40px;
 }
 
 /* The Contact Section*/
