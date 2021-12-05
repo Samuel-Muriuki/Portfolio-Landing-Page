@@ -107,3 +107,9 @@ form>input {
     border: none;
     border-radius: 10px;
 }
+
+.contact1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 500px 10px 300px;
+}
