@@ -30,11 +30,36 @@ li {
     text-decoration: none;
 }
 
-/* The About Page*/
+/* The About Section*/
 .about {
     background: #252525;
+    color: #aba6a6;
 }
 
 .white {
     color: #e6e6e6;
+}
+
+.abt {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px 0px 50px;
+}
+
+img {
+    border-radius: 30px;
+}
+
+li {
+    color: #e2e2e2;
+}
+
+.new-white {
+    font-style: italic;
+    font-weight: 700;
+    color: #c0c0c0;
+}
+
+.abt-txt {
+    line-height: 50px;
 }
