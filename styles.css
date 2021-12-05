@@ -124,7 +124,8 @@ form>input {
 
 /* Footer Starts here*/
 footer {
-    10rem
+    background: #252525;
+    color: #aba6a6;
 }
 
 .footer__bottom {
@@ -132,4 +133,14 @@ footer {
     justify-content: space-between;
     align-items: center;
     font-size: 0.875rem;
+  }
+
+  .copy__right {
+      word-spacing: 10px;
+      padding-left: 50px;
+  }
+
+.move-up i {
+      color: #e77619;
+      padding: 50px 0px 0px 50px;
   }
