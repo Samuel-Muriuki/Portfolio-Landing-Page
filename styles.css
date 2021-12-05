@@ -90,8 +90,9 @@ li {
 
 /* The Contact Section*/
 .contact {
-    
     height: 55rem;
+    background: #252525;
+    color: #aba6a6;
 }
 
 form {
