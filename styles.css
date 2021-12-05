@@ -95,6 +95,16 @@ li {
     color: #aba6a6;
 }
 
+.conta {
+    display: flex;
+}
+.conta>i {
+    color: #e77619;
+    font-size: 40px;
+    padding-right: 20px;
+}
+
+
 form {
     height: 300px;
     width: 60%;
