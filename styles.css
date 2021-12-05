@@ -77,7 +77,7 @@ li {
 /* The Contact Section*/
 .contact {
     
-    height: 40rem;
+    height: 55rem;
 }
 
 form {
@@ -121,3 +121,15 @@ form>input {
     border: 1px solid rgb(0, 0, 0);
     
 }
+
+/* Footer Starts here*/
+footer {
+    10rem
+}
+
+.footer__bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.875rem;
+  }
