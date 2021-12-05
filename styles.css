@@ -63,3 +63,18 @@ li {
 .abt-txt {
     line-height: 50px;
 }
+
+.traction {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px 50px 100px;
+}
+
+.box {
+    box-sizing: border-box;
+    height: 200px;
+    width: 150px;
+    border: 1px solid #e6e6e6;
+    border-radius: 10px;
+}
+
