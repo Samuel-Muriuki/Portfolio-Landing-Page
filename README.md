@@ -71,4 +71,4 @@ SOFTWARE.
 
 Slack Profile - [Samuel-Muriuki](https://app.slack.com/)
 
-[Go Back to the top](#lPortfolio-Landing-Page)
+[Go Back to the top](#Portfolio-Landing-Page)
