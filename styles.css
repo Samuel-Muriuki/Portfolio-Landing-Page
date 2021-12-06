@@ -80,12 +80,23 @@ li {
     border: 1px solid #e6e6e6;
     border-radius: 10px;
     padding: 20px;
+    line-height: 40px;
+    color: rgb(207, 162, 110);
+}
+
+.box:hover {
+    box-shadow: 0 4px 8px 0 rgba(94, 255, 0, 0.5), 0 6px 20px 0 rgba(94, 255, 0, 0.5);
 }
 
 .box>i {
-    padding-bottom: 30px;
+    
+    padding: 0px 0px 30px 50px;
     color: #e77619;
     font-size: 40px;
+}
+
+.counter {
+    font-size: larger;
 }
 
 /* The Contact Section*/
