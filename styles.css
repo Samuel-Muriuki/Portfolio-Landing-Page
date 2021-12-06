@@ -90,7 +90,7 @@ li {
 
 /* The Contact Section*/
 .contact {
-    height: 55rem;
+    height: 60rem;
     background: #252525;
     color: #aba6a6;
 }
@@ -161,6 +161,11 @@ form>input {
     width: 500px;
     border: 1px solid rgb(0, 0, 0);
     padding: 10px 0px 0px 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.conta:hover {
+    box-shadow: 0 4px 8px 0 rgba(94, 255, 0, 0.5), 0 6px 20px 0 rgba(94, 255, 0, 0.5);
 }
 
 .cont1-a>.conta>div {
@@ -182,6 +187,22 @@ form>input {
 
 .conta>h3 {
     padding: 20px 10px 0px 100px;
+}
+
+.but {
+    padding: 100px 0px 0px 750px;
+}
+
+.but>button {
+    border: none;
+    background: rgb(0, 59, 254);
+    color: #aba6a6;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+}
+
+button {
+    
 }
 
 /* Footer Starts here*/
