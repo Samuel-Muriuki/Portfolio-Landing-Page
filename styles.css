@@ -139,12 +139,49 @@ form>input {
     padding: 100px 500px 10px 300px;
 }
 
+.cont1-a {
+    padding: 0px 100px 0px 0px;
+}
+
+.cont1-b {
+    padding: 100px 0px 0px 0px;
+}
+
+.cont2-a {
+    padding: 0px 0px 0px 0px;
+}
+
+.cont2-b {
+    padding: 100px 0px 0px 0px;
+}
+
 .conta {
     box-sizing: border-box;
     height: 100px;
-    width: 400px;
+    width: 500px;
     border: 1px solid rgb(0, 0, 0);
-    
+    padding: 10px 0px 0px 30px;
+}
+
+.cont1-a>.conta>div {
+    padding: 10px 0px 0px 100px;
+}
+
+.cont1-b>.conta>div {
+    padding: 10px 0px 0px 100px;
+}
+
+.cont1-b>.conta>div>a>i {
+    color: #e77619;
+    padding-right: 30px;
+}
+
+.conta>i {
+    padding: 20px 0px 0px 50px;
+}
+
+.conta>h3 {
+    padding: 20px 10px 0px 100px;
 }
 
 /* Footer Starts here*/
