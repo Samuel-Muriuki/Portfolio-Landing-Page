@@ -83,6 +83,10 @@ li {
     line-height: 50px;
 }
 
+.box>.text>a {
+    color: rgb(207, 162, 110);
+}
+
 .traction {
     display: flex;
     justify-content: space-between;
