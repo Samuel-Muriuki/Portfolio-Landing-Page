@@ -29,8 +29,24 @@ ul {
     padding: 10px 60px 0px 60px;
 }
 
+li a {
+    color: #ffffff;
+    font-weight: 600;   
+    text-decoration: none;
+}    
+
+li a:hover {
+    color: rgb(94, 254, 0);
+    text-decoration: none;
+}
+
+ul>li:hover {
+    color: rgb(94, 254, 0);
+}
+
 ul>li {
     list-style: none;
+    font-weight: 600; 
 }
 
 /* The About Section*/
