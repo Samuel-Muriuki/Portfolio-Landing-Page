@@ -25,7 +25,7 @@
 
 ### How to view the webpage.
 ****
-Click on the link bellow to view the street food site.
+Click on the link bellow to view the portfolio landing site.
 https://samuel-muriuki.github.io/Portfolio-Landing-Page/
 ****
 [Go Back to the top](#Portfolio-Landing-Page)
